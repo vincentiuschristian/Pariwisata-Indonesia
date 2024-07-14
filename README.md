@@ -1,4 +1,5 @@
 # Pariwisata Indonesia
+Tugas Akhir Junior Web Developer VSGA 2024
 
 Berikut merupakan cara instalasi aplikasi:
 1. Buat Database di phpmyadmin dengan nama "tot_jwd_2024"
